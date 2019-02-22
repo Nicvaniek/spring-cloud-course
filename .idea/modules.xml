@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab-3/lab-3-client/lab-3-client.iml" filepath="$PROJECT_DIR$/lab-3/lab-3-client/lab-3-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-3/lab-3-server/lab-3-server.iml" filepath="$PROJECT_DIR$/lab-3/lab-3-server/lab-3-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-course.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-course.iml" />
+    </modules>
+  </component>
+</project>
